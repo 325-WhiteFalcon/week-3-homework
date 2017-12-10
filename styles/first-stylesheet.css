@@ -1,0 +1,85 @@
+
+/*body to be blue*/
+
+body {		
+		background-color:#33ccff;
+	 }
+	
+header {	
+		width: 100%;
+		margin: auto;
+	   }
+	
+	
+.wrapper {
+		
+		width: 915px;
+		margin: 20px auto 20px auto;
+		border: 2px solid #000000;
+		background-color: 	#708090;
+		 }
+	
+section {
+		margin: auto;
+		width: 50%;
+		loat: center;
+		padding: 2rem;
+		border: 1px;
+		border-color: black;
+		border-width: thick;
+        }
+		
+img {	display: block;
+		width: 95%;
+		height: 10%;
+		border: 1px solid blue;
+	}
+
+a:hover { text-decoration: underline; font-size: 2em
+		}
+
+/* border of nav to be solid, float to the right*/
+
+
+nav {	float: center;
+		border-style: solid;
+		width: 150px;
+		padding: 20px;
+		background-color: #0099ff;
+	}
+		
+ul li { list-style-type:none;
+		margin: auto;		
+	  }		
+		
+		
+		/*churhces of europe are there to be cherished*/	
+		
+h1{		background-color: #80bfff;
+		text-align: center;
+		border: 2px solid black;
+		width: auto;
+		padding: 50px;	
+   }	
+		
+	/*top 8 european cities*/	
+h2 {	background-color: #668099;
+		font-size: 200%;
+		font-family: san-serif;
+		text-align: center;
+		border: 2px solid black;
+		width: auto;
+		padding: 50px;
+	}
+	
+p  { 	background-color: white;
+		border: 1px solid #0073e6;
+		border: radius 20px;
+		margin-top: 20px;
+        margin-bottom: 50px;
+        margin-right: 50px;
+        margin-left: 50px;		
+}
+
+Footer { border: 1px }
+		
